@@ -31,7 +31,7 @@ oferecido por [Origamid](https://www.origamid.com/curso/css-avancado-posicioname
 
 Este projeto é feito em uma parte:
 
-1. Frontend (brafe-1-bootstrao folder)
+1. Frontend (brafe-1-bootstrap folder)
 
 
 #### 🧭 Rodando a aplicação web
@@ -42,7 +42,7 @@ Este projeto é feito em uma parte:
 $ git clone https://github.com/marcelo-rafael/bootstrap-brafe-1
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd brafe-1-bootstrao
+$ cd brafe-1-bootstrap
 
 
 ```
